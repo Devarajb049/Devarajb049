@@ -5,16 +5,17 @@ I'm a **BTech student** passionate about **Web Development**, **Coding**, and cr
 ---
 
 ## 🚀 Portfolio Website
-**Explore my personal portfolio:**  
+**Explore my personal portfolio:** 
+
 [![Visit Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=circle&logoColor=white)](https://devarajbhojanapuportfolio.netlify.app)
 
 ---
 
 ## 📊 My GitHub Stats
 
-![Deva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeash007&show_icons=true&theme=tokyonight&border_radius=10)
+![Deva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devarajb049&show_icons=true&theme=tokyonight&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeash007&layout=compact&theme=tokyonight&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajb049&layout=compact&theme=tokyonight&border_radius=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codeash007&theme=tokyonight&hide_border=true)
 
