@@ -18,8 +18,8 @@ Check out my personal portfolio:
 
 ### Let's Connect!
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Email](#)
+- [LinkedIn](https://www.linkedin.com/in/bhojanapu-deva-raj-323143329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Instagram](https://instagram.com/the_king_of_gods__)
+- [Email](mailto:bhojanapudevaraj049@gmail.com)
 
 Thanks for stopping by!
