@@ -1,7 +1,6 @@
 # Hi,I'm Deva Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-I'm a **BTech student** passionate about **Web Development**, **Coding**, and creating meaningful **digital experiences**.
-
+AI Enthusiast | Intern at Pantech.ai | Ex-Intern at Codeon Technologies Pvt. Ltd | B.Tech Student | Aspiring Software Developer
 ---
 
 ## 🚀 Portfolio Website
