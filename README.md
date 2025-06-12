@@ -1,32 +1,40 @@
-# Hi,I'm Deva Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+<h1 align="center">
+  Hi there, I'm Deva Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+</h1>
 
-AI Enthusiast | Intern at Pantech.ai | Ex-Intern at Codeon Technologies Pvt. Ltd | B.Tech Student | Aspiring Software Developer
----
-
-## 🚀 Portfolio Website
-**Explore my personal portfolio:** 
-
-[![Visit Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=circle&logoColor=white)](https://devarajbhojanapuportfolio.netlify.app)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C897&center=true&vCenter=true&width=440&lines=AI+Enthusiast;Intern+at+Pantech.ai;B.Tech+Student;Aspiring+Software+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📊 My GitHub Stats
+## 🌐 Portfolio Website
+
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-00C897?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devarajbhojanapuportfolio.netlify.app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![Deva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devarajb049&show_icons=true&theme=tokyonight&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajb049&layout=compact&theme=tokyonight&border_radius=10)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=codeash007&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=codeash007&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhojanapu-deva-raj-323143329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_king_of_gods__)
-[![Gmail](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhojanapudevaraj049@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhojanapu-deva-raj-323143329)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_king_of_gods__)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhojanapudevaraj049@gmail.com)
 
 ---
 
-Thanks for visiting my profile!  
-*Keep coding and keep creating!*
+### ⚡ Thanks for visiting!  
+_Keep building, keep learning, and stay curious!_
