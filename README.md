@@ -3,6 +3,12 @@
 </h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/bhojanapu-deva-raj-323143329">
+    <img src="https://img.shields.io/badge/LinkedIn-Deva%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C897&center=true&vCenter=true&width=440&lines=AI+Enthusiast;Intern+at+Pantech.ai;B.Tech+Student;Aspiring+Software+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
@@ -30,9 +36,9 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhojanapu-deva-raj-323143329)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_king_of_gods__)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhojanapudevaraj049@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhojanapu-deva-raj-323143329)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_king_of_gods__)  
+[![Gmail](https://img.shields.io/badge/Gmail-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhojanapudevaraj049@gmail.com)
 
 ---
 
