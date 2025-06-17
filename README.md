@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Devarajb049/Devarajb049/assets/banner.png" alt="Welcome Banner" width="100%"/>
-</p>
 
 # 👋 Hi, I'm Bhojanapu Deva Raj!
 
