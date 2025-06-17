@@ -37,9 +37,6 @@ Welcome to my GitHub! I'm a passionate tech enthusiast with a focus on **Web Dev
 A fully client-side web app for intelligent seat arrangement using HTML, CSS, and JavaScript  
 🔗 [GitHub Repository](https://github.com/Devarajb049/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devarajb049/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System/assets/Screenshot1.png" alt="RoomMapper Preview" width="80%">
-</p>
 
 ---
 
