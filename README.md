@@ -38,7 +38,7 @@ A fully client-side web app for intelligent seat arrangement using HTML, CSS, an
 🔗 [GitHub Repository](https://github.com/Devarajb049/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devarajb049/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System/main/demo.png" alt="RoomMapper Preview" width="80%">
+  <img src="https://raw.githubusercontent.com/Devarajb049/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System/assets/Screenshot1.png" alt="RoomMapper Preview" width="80%">
 </p>
 
 ---
@@ -47,9 +47,6 @@ A fully client-side web app for intelligent seat arrangement using HTML, CSS, an
 A complete student registration system with admin login, email OTP verification, and real-time database integration  
 🌐 [Live Website](https://sportsregistration.free.nf)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devarajb049/Sports-Registration-System/main/preview.png" alt="Sports Registration Website" width="80%">
-</p>
 
 ---
 
