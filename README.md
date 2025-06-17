@@ -1,46 +1,59 @@
-<h1 align="center">
-  Hi there, I'm Deva Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
+# 👋 Hi, I'm Devaraj Bhojanapu!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhojanapu-deva-raj-323143329">
-    <img src="https://img.shields.io/badge/LinkedIn-Deva%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+🚀 B.Tech Student | 💻 Developer | 🎨 Designer | 🤖 AI Explorer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C897&center=true&vCenter=true&width=440&lines=AI+Enthusiast;Intern+at+Pantech.ai;B.Tech+Student;Aspiring+Software+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+Welcome to my GitHub! I'm a tech enthusiast passionate about building smart, scalable, and beautifully designed digital experiences. From full-stack web apps to AI-powered tools and even custom T-shirt merch, I love blending creativity with code.
 
 ---
 
-## 🌐 Portfolio Website
+## 🌟 About Me
 
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-00C897?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devarajbhojanapuportfolio.netlify.app)
+- 🔭 Currently working on **AI tools, full-stack apps, and creative projects**
+- 🌱 Learning more about **Machine Learning, UI/UX Design**, and **Firebase**
+- 👨‍💻 Internships at [Pantech.ai](https://pantech.ai) & [Codeon Technologies](https://codeontechnologies.com)
+- 🎨 Designer of my own T-shirt merchandise collections
+- 🌐 Portfolio: [devarajbhojanapuportfolio.netlify.app](https://devarajbhojanapuportfolio.netlify.app)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
-![Deva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devarajb049&show_icons=true&theme=tokyonight&border_radius=10)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajb049&layout=compact&theme=tokyonight&border_radius=10)
+## 📌 Pinned Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=codeash007&theme=tokyonight&hide_border=true)
+Here are some highlights of what I’ve built:
 
-</div>
+- 🧠 **AI Tools** – Custom ML/DL projects and dashboards  
+- 🪑 **RoomMapper** – Smart seat allotment web app (HTML/CSS/JS)  
+- 🎨 **Merch Design Showcase** – T-shirt design projects + product links  
+- 📊 **Dashboards** – Intern-built analytics and automation panels  
+
+> 🔗 Check the pinned repositories for code & more info.
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhojanapu-deva-raj-323143329)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_king_of_gods__)  
-[![Gmail](https://img.shields.io/badge/Gmail-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhojanapudevaraj049@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bhojanapudevaraj)
+- [GitHub](https://github.com/Devarajb049)
+- [Portfolio Website](https://devarajbhojanapuportfolio.netlify.app)
 
 ---
 
-### ⚡ Thanks for visiting!  
-_Keep building, keep learning, and stay curious!_
+### ⚡ Fun Fact:
+I believe in **“learning by building”** — every project I create solves a real-world problem or tells a story.
+
+---
+
+🧠 *Open to internships, freelance work, and collaborations!*
