@@ -1,17 +1,16 @@
-# 👋 Hi, I'm Devaraj Bhojanapu!
+# 👋 Hi, I'm Bhojanapu Deva Raj!
 
-🚀 B.Tech Student | 💻 Developer | 🎨 Designer | 🤖 AI Explorer
+🚀 B.Tech Student | 💻 Developer | 🤖 AI Explorer
 
-Welcome to my GitHub! I'm a tech enthusiast passionate about building smart, scalable, and beautifully designed digital experiences. From full-stack web apps to AI-powered tools and even custom T-shirt merch, I love blending creativity with code.
+Welcome to my GitHub! I'm a passionate tech enthusiast with a focus on **Web Development**, **AI tools**, and solving real-world problems through code. I believe in learning by building and continuously exploring new technologies.
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 Currently working on **AI tools, full-stack apps, and creative projects**
-- 🌱 Learning more about **Machine Learning, UI/UX Design**, and **Firebase**
-- 👨‍💻 Internships at [Pantech.ai](https://pantech.ai) & [Codeon Technologies](https://codeontechnologies.com)
-- 🎨 Designer of my own T-shirt merchandise collections
+- 🔭 Currently working on **AI tools and full-stack web applications**
+- 🌱 Learning more about **Web Technologies**, **UI/UX Design**, and **Firebase**
+- 👨‍💻 Internships Done at [Pantech.ai](https://pantech.ai) & [Codeon Technologies](https://codeontechnologies.com)
 - 🌐 Portfolio: [devarajbhojanapuportfolio.netlify.app](https://devarajbhojanapuportfolio.netlify.app)
 
 ---
@@ -21,9 +20,6 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about building smart, sca
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
@@ -32,14 +28,12 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about building smart, sca
 
 ## 📌 Pinned Projects
 
-Here are some highlights of what I’ve built:
+Here are a few highlights of my work:
 
-- 🧠 **AI Tools** – Custom ML/DL projects and dashboards  
-- 🪑 **RoomMapper** – Smart seat allotment web app (HTML/CSS/JS)  
-- 🎨 **Merch Design Showcase** – T-shirt design projects + product links  
-- 📊 **Dashboards** – Intern-built analytics and automation panels  
+- 🪑 **[RoomMapper](https://github.com/Devarajb049/RoomMapper)** – Smart seat allotment web app built using HTML, CSS, and JavaScript  
+- 🏅 **[Sports Registration Website](https://sportsregistration.free.nf)** – A complete registration system with admin login, Student Registration, and real-time database integration
 
-> 🔗 Check the pinned repositories for code & more info.
+> 🔗 Check my pinned repositories for source code.
 
 ---
 
@@ -51,9 +45,4 @@ Here are some highlights of what I’ve built:
 
 ---
 
-### ⚡ Fun Fact:
-I believe in **“learning by building”** — every project I create solves a real-world problem or tells a story.
-
----
-
-🧠 *Open to internships, freelance work, and collaborations!*
+🧠 *Always open to internships, learning opportunities, and collaborations!*
