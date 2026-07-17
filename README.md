@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Bhojanapu%20Deva%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Bhojanapu%20Deva%20Raj&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=15"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Computer+Science+Engineering+Student;Building+Real+Projects+That+Matter;Cloud+Computing+%26+Automation+Explorer)](https://git.io/typing-svg)
+### Full Stack Web Developer • Computer Science Engineering Student
+### Building Real Projects That Matter • Cloud Computing & Automation Explorer
 
 <br/>
 
@@ -15,9 +16,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Devarajb049&label=Profile+Views&color=2563EB&style=flat-square)
 ![Repos](https://img.shields.io/badge/Repos-21-7C3AED?style=flat-square)
-![Followers](https://img.shields.io/github/followers/Devarajb049?style=flat-square&color=06B6D4&label=Followers)
+![Followers](https://img.shields.io/badge/Followers-Connect_on_GitHub-06B6D4?style=flat-square&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-7-F59E0B?style=flat-square)
 
 </div>
@@ -63,22 +63,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devarajb049&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=7C3AED&text_color=E6EDF3" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajb049&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=E6EDF3" width="40%"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Devarajb049&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=7C3AED&currStreakLabel=06B6D4)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
