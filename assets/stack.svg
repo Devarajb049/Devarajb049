@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160" role="img" aria-label="Tech stack">
+<defs>
+<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="48"/></filter>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".5" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity=".3"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity=".02"/></linearGradient>
+</defs>
+<rect width="1000" height="160" rx="28" fill="#0a0a14"/>
+<g filter="url(#b)"><circle cx="160" cy="80" r="80" fill="#7c3aed" opacity=".8"/><circle cx="850" cy="80" r="90" fill="#06b6d4" opacity=".7"/></g>
+<rect x="96" y="40" width="118" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="156" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">JavaScript</text>
+<rect x="226" y="40" width="118" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="286" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">TypeScript</text>
+<rect x="356" y="40" width="76" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="394" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">React</text>
+<rect x="444" y="40" width="92" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="490" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">Node.js</text>
+<rect x="548" y="40" width="92" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="594" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">Express</text>
+<rect x="652" y="40" width="92" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="698" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">MongoDB</text>
+<rect x="756" y="40" width="59" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="786" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">PHP</text>
+<rect x="828" y="40" width="76" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="866" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">MySQL</text>
+<rect x="147" y="86" width="84" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="189" y="108" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">Python</text>
+<rect x="243" y="86" width="101" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="294" y="108" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">Tailwind</text>
+<rect x="356" y="86" width="92" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="402" y="108" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">C / C++</text>
+<rect x="460" y="86" width="67" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="494" y="108" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">Java</text>
+<rect x="539" y="86" width="59" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="568" y="108" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">Git</text>
+<rect x="610" y="86" width="84" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="652" y="108" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">Vercel</text>
+<rect x="706" y="86" width="59" height="34" rx="17" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1"/><text x="736" y="108" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e5e7eb">Linux</text>
+</svg>

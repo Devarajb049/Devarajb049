@@ -1,96 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Bhojanapu%20Deva%20Raj&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=15"/>
+<img src="assets/hero.svg" width="100%" alt="Bhojanapu Deva Raj — AI & Full-Stack Developer"/>
 
 <br/>
 
-### Full Stack Web Developer • Computer Science Engineering Student
-### Building Real Projects That Matter • Cloud Computing & Automation Explorer
+**I build web products that ship, and I like making them a little smarter with AI.**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devarajbhojanapuportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhojanapudevaraj/)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhojanapudevaraj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devarajb049)
-
-<br/>
-
-![Repos](https://img.shields.io/badge/Repos-21-7C3AED?style=flat-square)
-![Followers](https://img.shields.io/badge/Followers-Connect_on_GitHub-06B6D4?style=flat-square&logo=github&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars-7-F59E0B?style=flat-square)
+<a href="https://bhojanapudevaraj.dev/"><img src="assets/portfolio.svg" height="40" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/bhojanapudevaraj/"><img src="assets/linkedin.svg" height="40" alt="LinkedIn"/></a>
+<a href="https://github.com/Devarajb049"><img src="assets/github.svg" height="40" alt="GitHub"/></a>
+<a href="mailto:bhojanapudevaraj@gmail.com"><img src="assets/email.svg" height="40" alt="Email"/></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+### Lately
 
-- 💻 Passionate about building **modern, responsive, real-world web apps** — not tutorial clones
-- ⚡ Currently focused on **Full Stack Development**, **Cloud Computing**, and **Automation**
-- 🎨 Side interests: **UI/UX Design**, Photo & Video Editing, Branding
-- 🌐 Portfolio: [devarajbhojanapuportfolio.netlify.app](https://devarajbhojanapuportfolio.netlify.app/)
+- Building full-stack apps with real users and real deployments
+- Pairing web engineering with AI, always with a human in the loop
+- Going deeper into cloud and automation
+- Sharpening and Java
 
----
+<br/>
 
-## 🛠️ Tech Stack
+### Built with
 
-**Frontend**
+<div align="center">
+<img src="assets/stack.svg" width="100%" alt="Tech stack"/>
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br/>
 
-**Backend & Databases**
+### Selected work
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**[AuraCRM](https://github.com/Devarajb049/startup-crm-lite)** · Sales pipeline CRM with Kanban and analytics &nbsp;[live](https://aura-startup-crm-lite.vercel.app)
 
-**Languages**
+**[FoodGenie](https://github.com/Devarajb049/FoodGenie)** · AI-powered food ordering platform &nbsp;[live](https://food-genie-jade.vercel.app)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**[NetSage AI](https://github.com/Devarajb049/NetSage_AI)** · AI network troubleshooting with human review &nbsp;[live](https://netsage-ai-dev.vercel.app)
 
-**Tools & Platforms**
+More on my [portfolio](https://bhojanapudevaraj.dev/) and in [repositories](https://github.com/Devarajb049?tab=repositories).
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🎯 Current Focus
-
-```text
-🚀  Shipping full-stack projects with real users
-☁️  Diving deeper into Cloud Computing (AWS / GCP)
-🎨  Levelling up UI/UX design skills
-⚡  Exploring AI-powered automation tools
-📚  Strengthening DSA with C++ & Java
-```
-
----
-
-## 🏅 Achievements
-
-- 🥇 **Pair Extraordinaire** — GitHub Achievement
-- 🌐 **21 Public Repositories** — Consistent builder, not just a learner
-
----
+<br/>
 
 <div align="center">
 
-**If you find my work useful, a ⭐ on any repo goes a long way.**
+<img src="https://github-readme-stats.vercel.app/api?username=Devarajb049&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=7C3AED&text_color=9CA3AF&hide_border=true&hide_title=true&hide=contribs&card_width=420" height="140" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajb049&layout=compact&theme=transparent&title_color=A78BFA&text_color=9CA3AF&hide_border=true&hide_title=true&langs_count=5&card_width=320" height="140" alt="Top languages"/>
 
-*Open to collaborations, internships, and interesting projects.*
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=100&section=footer"/>
+<img src="assets/footer.svg" width="100%" alt="Open to internships and collaborations"/>
 
 </div>

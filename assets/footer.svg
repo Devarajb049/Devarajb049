@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="1000" height="110" role="img" aria-label="Open to internships and collaborations">
+<defs>
+<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="48"/></filter>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".5" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity=".3"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity=".02"/></linearGradient>
+</defs>
+<rect width="1000" height="110" rx="28" fill="#0a0a14"/>
+<g filter="url(#b)"><circle cx="250" cy="55" r="60" fill="#06b6d4" opacity=".8"/><circle cx="760" cy="55" r="70" fill="#7c3aed" opacity=".8"/></g>
+<rect x="150" y="22" width="700" height="66" rx="24" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1.2"/>
+<text x="500" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#e5e7eb">Open to internships &amp; collaborations  ·  bhojanapudevaraj.dev</text>
+</svg>
