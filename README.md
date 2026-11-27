@@ -22,7 +22,7 @@
 - Building full-stack apps with real users and real deployments
 - Pairing web engineering with AI, always with a human in the loop
 - Going deeper into cloud and automation
-- Sharpening and Java
+- Sharpening Java
 
 <br/>
 
@@ -33,16 +33,6 @@
 </div>
 
 <br/>
-
-### Selected work
-
-**[AuraCRM](https://github.com/Devarajb049/startup-crm-lite)** · Sales pipeline CRM with Kanban and analytics &nbsp;[live](https://aura-startup-crm-lite.vercel.app)
-
-**[FoodGenie](https://github.com/Devarajb049/FoodGenie)** · AI-powered food ordering platform &nbsp;[live](https://food-genie-jade.vercel.app)
-
-**[NetSage AI](https://github.com/Devarajb049/NetSage_AI)** · AI network troubleshooting with human review &nbsp;[live](https://netsage-ai-dev.vercel.app)
-
-More on my [portfolio](https://bhojanapudevaraj.dev/) and in [repositories](https://github.com/Devarajb049?tab=repositories).
 
 <br/>
 
